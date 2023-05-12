@@ -1,4 +1,5 @@
 ### Hi there 👋
+🌱 I’m currently learning Cyber Security and Ethical Hacking
 
 <!--
 **Ananthu113/Ananthu113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
